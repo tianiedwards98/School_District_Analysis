@@ -10,7 +10,7 @@ We have been tasked with analyzing the student data set from the school board
 5. Compare and contrast the data through grouping and aggregation
 
 ## Resources
-Data Source: new_student_data.csv
+Data Source: new_full_student_data.csv
 
 Software: Python 3.9.12, Jupyter Notebook 6.4.12
 
